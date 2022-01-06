@@ -11,8 +11,8 @@ import shutil
 
 
 
-username=("407850105")
-password=("Aall9819")
+username=("")
+password=("")
 
 
 driver = webdriver.Chrome(executable_path='/usr/local/bin/chromedriver')
